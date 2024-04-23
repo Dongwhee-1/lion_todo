@@ -59,7 +59,7 @@ const TodoList = () => {
   return (
     <div className={styles.container}>
       <h1 className="text-xl mb-4 font-bold underline underline-offset-4 decoration-wavy">
-        Todo List
+        ♥️ Todo List ♥️
       </h1>
       {/* 할 일을 입력받는 텍스트 필드입니다. */}
       <input
