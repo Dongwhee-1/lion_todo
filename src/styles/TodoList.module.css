@@ -15,9 +15,9 @@ input[type="text"].itemInput {
 
 button.addButton {
   padding: 5px;
-  background-color: #0070f3;
+  background-color: black;
   color: white;
-  border: 1px solid #0070f3;
+  border: 1px solid black;
   border-radius: 5px;
   cursor: pointer;
 }
