@@ -76,7 +76,7 @@ const TodoList = () => {
                    border border-blue-500 rounded hover:bg-white hover:text-blue-500"
         onClick={addTodo}
       >
-        Add Todo
+        추가하기
       </button>
       {/* 할 일 목록을 렌더링합니다. */}
       <ul>
