@@ -24,7 +24,7 @@ button.addButton {
 
 button.addButton:hover {
   background-color: #fff;
-  color: #0070f3;
+  color: #f34100;
 }
 
 .todoItem {
